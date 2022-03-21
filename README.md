@@ -1,2 +1,3 @@
 # spotify-cli
-[UNFINISHED] spotify client on terminal. right now you can only stalk people with it. 
+
+show me a list of playlists of a user and what songs are in it. 
